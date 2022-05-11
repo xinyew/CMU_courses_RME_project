@@ -3,7 +3,7 @@ from signal import pause
 from datetime import datetime
 
 button = Button(2)
-f = open("final.py", "r")
+f = open("testAndSending.py", "r")
 s = f.read()
 f.close()
 
