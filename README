@@ -1,0 +1,10 @@
+STEP TO RUN CODES:
+
+01. Setting up the correct device ID and token in the ./testAndSending.py
+02. Connect the circuit at both sides according to pictures in this repo.
+03. Flashing particle board with a app based on 3 files: printer.ino, tt.cpp, tt.h
+04. On a terminal, run $ python3 ./gpioInterface.py
+05. Setting up the location and focus of your camera, then push the button.
+
+If you have any problem, please feel free to reach out to me: xinyew@andrew.cmu.edu
+
